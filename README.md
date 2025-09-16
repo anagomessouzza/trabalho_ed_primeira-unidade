@@ -1,2 +1,2 @@
-# trabalho_ed_primeira-unidade
+# Primeiro trabalho estrutura de dados
 Repositório dedicado ao trabalho da primeira unidade da matéria estrutura de dados
